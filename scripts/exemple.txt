@@ -1,0 +1,5 @@
+# Exemple : une phrase par ligne. Mets ta voix off a cote avec le meme nom (exemple.mp3).
+# Les lignes qui commencent par # sont ignorees.
+A 19 ans, il marchait seul.
+Personne ne croyait en lui.
+Chaque matin, il se levait avant tout le monde.

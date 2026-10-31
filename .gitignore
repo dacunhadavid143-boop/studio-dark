@@ -1,0 +1,29 @@
+# Secrets — ne jamais publier
+.env
+*.key
+
+# Données lourdes ou personnelles
+mes_clips/
+sorties/
+cache/
+a_decouper/
+historique.json
+scripts/*
+!scripts/exemple.txt
+*.mp4
+*.mkv
+*.mov
+*.mp3
+*.wav
+*.m4a
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+voix_xtts/venv/
+voix_xtts/reference*
+voix_xtts/sortie*.wav
+voix_xtts/texte.txt
+*_log.txt
